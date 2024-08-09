@@ -1,7 +1,7 @@
 # Projects
-Welcome to my GitHub repository! This repository contains all the projects I have worked on as part of my learning journey. These projects cover various topics and technologies that I have explored during my courses.
-
-This repository serves as a collection of projects I've completed while learning different programming languages, frameworks, and tools. Each project represents a step forward in my journey to becoming a proficient developer.
+Welcome to my GitHub repository! This repository contains all the projects I have worked on as part of my learning journey. 
+These projects cover various topics and technologies that I have explored during my courses.
+This repository serves as a collection of projects I've completed while learning different programming languages, rameworks and tools. 
 
 Projects
 Here is a list of some of the projects included in this repository:
@@ -18,7 +18,7 @@ Programming Languages: Python, C++.
 Frameworks: BootStrap.
 
 Contributing
-I welcome contributions to enhance these projects. If you have any ideas or improvements, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the goals of this repository.
+I welcome contributions to enhance these projects. If you have any ideas or improvements, feel free to open an issue or submit a pull request. 
 
 Contact
 Feel free to reach out if you have any questions or suggestions:
