@@ -31,7 +31,7 @@ Installation
 To run any of these projects locally, follow these steps:
 
 Clone this repository:
-git clone https://github.com/yourusername/your-repository.git
+git clone (https://github.com/Axit3376/Projects)
 
 Navigate to the project directory:
 cd project-directory
